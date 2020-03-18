@@ -23,7 +23,6 @@ ratings:
   - "**.py"
   - "**.rb"
 exclude_paths:
-- dist/
 - node_modules/
 - src/mapStyles.js
 - .idea/
