@@ -1,6 +1,6 @@
 {
-	"name": "vue-hotel-datepicker",
-	"version": "2.7.7",
+	"name": "vue-hotel-datepicker-past",
+	"version": "2.7.8",
 	"description": "A responsive date range picker for Vue.js that displays the number of nights selected and allow several useful options like custom check-in/check-out rules, localization support and more",
 	"author": "krystalcampioni <hello@krystalcampioni.com>",
 	"license": "MIT",
@@ -20,7 +20,7 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/krystalcampioni/vue-hotel-datepicker"
+		"url": "https://github.com/xFEARx/vue-hotel-datepicker"
 	},
 	"keywords": [
 		"vue",
@@ -35,9 +35,9 @@
 		"date range picker"
 	],
 	"bugs": {
-		"url": "https://github.com/krystalcampioni/vue-hotel-datepicker/issues"
+		"url": "https://github.com/xFEARx/vue-hotel-datepicker/issues"
 	},
-	"homepage": "https://github.com/krystalcampioni/vue-hotel-datepicker",
+	"homepage": "https://github.com/xFEARx/vue-hotel-datepicker",
 	"devDependencies": {
 		"@vue/test-utils": "^1.0.0-beta.30",
 		"autoprefixer": "^7.2.6",
